@@ -353,48 +353,7 @@ Below is a structured log of advanced CTF challenges solved across various platf
 
 </div>
 
-<br/>
-
----
-
-## <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="30"/> 📈 [SYSTEM STATUS] ~ GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ShubhamShinde148&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF66&icon_color=8B5CF6&text_color=C9D1D9" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamShinde148&hide_border=true&background=0D1117&ring=8B5CF6&fire=00FF66&currStreakNum=ffffff&currStreakLabel=00FF66&sideNums=ffffff&sideLabels=A78BFA&dates=A78BFA" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamShinde148&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF66&text_color=C9D1D9" width="49%"/>
-
-</div>
-
-<br/>
-
-## <img src="https://media.giphy.com/media/xUOxf48UBTATyMlPHu/giphy.gif" width="30"/> GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ShubhamShinde148&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8" />
-
-</div>
-
-<br/>
-
----
-
-## <img src="https://media.giphy.com/media/kJ1LM3zLef1jK/giphy.gif" width="30"/> 3D Contribution Skyline
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ShubhamShinde148/ShubhamShinde148/main/profile-3d-contrib/profile-purple-3d.svg" width="100%"/>
-
-<sub>Auto-generated in real time from live GitHub activity — see setup note below.</sub>
-
-</div>
-
-<br/>
-
----
+<br/>---
 
 ## <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="30"/> Contribution Activity
 
