@@ -125,6 +125,23 @@ I'm a cybersecurity student who lives at the intersection of **offensive securit
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/> 📁 [ROOT ACCESS] ~ Featured Projects
 
 <details>
+<summary><b>🧠 Understand Anything — AI Codebase Navigator</b></summary>
+<br/>
+
+An open-source multi-agent codebase visualization tool that maps dependencies, classes, and logic flows into interactive 3D knowledge graphs.
+
+| Aspect | Detail |
+|---|---|
+| **Stack** | TypeScript, React, Multi-Agent pipelines, LLM APIs |
+| **Category** | AI Developer Tools |
+| **Difficulty** | Medium–Hard |
+| **Core Concept** | Hierarchical codebase visualization & interactive knowledge graphs |
+| **Impact** | Drastically accelerates developer onboarding and legacy code exploration |
+| **Repository** | [github.com/Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) |
+
+</details>
+
+<details>
 <summary><b>🕵️ Ghost Redirect — CTF Web Challenge</b></summary>
 <br/>
 
