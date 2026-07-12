@@ -21,9 +21,9 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=ShubhamShinde148&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/ShubhamShinde148?style=for-the-badge&color=6366F1&label=FOLLOWERS&logo=github"/>
-<img src="https://img.shields.io/github/stars/ShubhamShinde148?style=for-the-badge&color=A78BFA&label=STARS"/>
+<img src="https://komarev.com/ghpvc/?username=ShubhamShinde148&style=for-the-badge&color=00FF66&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/ShubhamShinde148?style=for-the-badge&color=8B5CF6&label=FOLLOWERS&logo=github"/>
+<img src="https://img.shields.io/github/stars/ShubhamShinde148?style=for-the-badge&color=00F0FF&label=STARS"/>
 
 </div>
 
