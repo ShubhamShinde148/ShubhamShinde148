@@ -33,6 +33,14 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> 🕵️‍♂️ [RECON] ~ About Me
 
+```bash
+# shubham@root:~$ ./recon_scan.sh --target visitor
+[+] Scanning visitor credentials... 
+[+] Status: CONNECTION ESTABLISHED
+[+] Alert: Cybersecurity enthusiast detected on page.
+[+] Action: Initiating terminal view...
+```
+
 ```yaml
 # shubham@root:~$ cat about_me.yaml
 whoami: Shubham Shinde
@@ -62,23 +70,33 @@ I'm a cybersecurity student who lives at the intersection of **offensive securit
 
 <div align="center">
 
-**Languages**
+**Programming & Scripting**
 <br/>
 <img src="https://skillicons.dev/icons?i=python,c,bash,js,html,css" />
 
-**Security & Tooling**
 <br/>
-<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=nmap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white"/>
+
+**Security & Offensive Arsenal**
+<br/>
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ghidra-000000?style=for-the-badge&logo=ghidra&logoColor=white"/>
+<img src="https://img.shields.io/badge/GDB%20%7C%20GEF-000000?style=for-the-badge&logo=gnu&logoColor=white"/>
+<img src="https://img.shields.io/badge/CyberChef-388E3C?style=for-the-badge&logo=chef&logoColor=white"/>
+
+<br/>
 
 **Web & Backend**
 <br/>
 <img src="https://skillicons.dev/icons?i=flask,nodejs,react,mysql,postgres" />
 
-**Cloud, DevOps & Tooling**
+<br/>
+
+**Cloud, DevOps & Workflows**
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
 
@@ -294,17 +312,27 @@ Below is a structured log of advanced CTF challenges solved across various platf
 
 ---
 
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> 📂 [SECRET ARCHIVES] ~ Writeups & Documentation
+
+*   [Ghost Redirect Challenge Writeup](https://cybersec-47e07.web.app) — Detail of HTTP redirect response headers and browser history masking.
+*   [RSA Cryptography Exploitation Reference](https://github.com/ShubhamShinde148) — A collection of modular mathematical attacks on RSA (LSB Oracle, Related Message).
+*   [Server-Side Template Injection (SSTI) Guide](https://github.com/ShubhamShinde148) — Exploitation payloads and sandbox bypasses in Jinja2 and Flask environments.
+
+<br/>
+
+---
+
 ## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"/> 📜 [VERIFIED CREDS] ~ Certifications
 
 <div align="center">
 
 **Cisco**
 <br/>
-<img src="https://img.shields.io/badge/Cisco-Networking%20Fundamentals-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cisco-Networking%20Fundamentals-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
 
 **NPTEL**
 <br/>
-<img src="https://img.shields.io/badge/NPTEL-Cybersecurity%20%2F%20CS%20Fundamentals-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/NPTEL-Cybersecurity%20%2F%20CS%20Fundamentals-8B5CF6?style=for-the-badge"/>
 
 *Add AWS / Oracle badges here as earned*
 
