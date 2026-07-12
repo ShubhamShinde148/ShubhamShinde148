@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Shubham%20Shinde&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Engineer%20%7C%20Ethical%20Hacker%20%7C%20CTF%20Architect&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D1117,1E1B4B,00FF66&height=250&section=header&text=Shubham%20Shinde&fontSize=55&fontColor=ffffff&fontFamily=Fira%20Code&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Engineer%20%7C%20Ethical%20Hacker%20%7C%20CTF%20Architect&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Breaking+Systems+to+Build+Stronger+Ones;Designing+CTF+Challenges+%26+Web+Exploits;Kali+Linux+%7C+Python+%7C+SQL+%7C+Networking;Securing+the+Web%2C+One+Exploit+at+a+Time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00FF66&center=true&vCenter=true&width=650&lines=Breaking+Systems+to+Build+Stronger+Ones;Designing+CTF+Challenges+%26+Web+Exploits;Kali+Linux+%7C+Python+%7C+SQL+%7C+Networking;Securing+the+Web%2C+One+Exploit+at+a+Time" alt="Typing SVG" />
 
 <br/>
 
@@ -31,9 +31,10 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> About Me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> 🕵️‍♂️ [RECON] ~ About Me
 
 ```yaml
+# shubham@root:~$ cat about_me.yaml
 whoami: Shubham Shinde
 role: "Cybersecurity Student & CTF Challenge Architect"
 focus:
@@ -57,7 +58,7 @@ I'm a cybersecurity student who lives at the intersection of **offensive securit
 
 ---
 
-## <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30"/> Tech Stack
+## <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30"/> 📡 [SCAN] ~ Tech Stack
 
 <div align="center">
 
@@ -87,23 +88,23 @@ I'm a cybersecurity student who lives at the intersection of **offensive securit
 
 ---
 
-## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"/> Security & Offensive Skills
+## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"/> ⚔️ [EXPLOIT LEVEL] ~ Security & Offensive Skills
 
-| Domain | Proficiency | Details |
-|---|:---:|---|
-| Web Application Security | ⭐⭐⭐⭐☆ | SSTI, IDOR, auth bypass, HTTP response manipulation |
-| CTF Challenge Design | ⭐⭐⭐⭐⭐ | Building original web-exploitation & stego challenges |
-| Steganography & Forensics | ⭐⭐⭐☆☆ | LSB analysis, PNG chunk parsing, file carving |
-| Reverse Engineering | ⭐⭐⭐☆☆ | Esoteric language decoding, binary analysis |
-| Networking Fundamentals | ⭐⭐⭐⭐☆ | TCP/IP, HTTP internals, packet analysis |
-| Linux Administration | ⭐⭐⭐⭐☆ | Kali Linux, shell scripting, system hardening |
-| SQL & Database Security | ⭐⭐⭐☆☆ | Query design, injection vectors, secure schemas |
+| 📡 Vector Domain | 🎚️ Penetration Level | 🧪 Techniques & Exploits |
+| :--- | :--- | :--- |
+| `Web Application Security` | `[████████░░] 80%` | SSTI, IDOR, Auth Bypass, HTTP response manipulation |
+| `CTF Challenge Design` | `[█████████░] 95%` | Building original web-exploitation & stego challenges |
+| `Steganography & Forensics` | `[██████░░░░] 60%` | LSB analysis, PNG chunk parsing, file carving |
+| `Reverse Engineering` | `[██████░░░░] 60%` | Esoteric language decoding, binary analysis |
+| `Networking Fundamentals` | `[████████░░] 80%` | TCP/IP, HTTP internals, packet analysis |
+| `Linux Administration` | `[████████░░] 80%` | Kali Linux, shell scripting, system hardening |
+| `SQL & Database Security` | `[██████░░░░] 60%` | Query design, injection vectors, secure schemas |
 
 <br/>
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/> Featured Projects
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/> 📁 [ROOT ACCESS] ~ Featured Projects
 
 <details>
 <summary><b>🕵️ Ghost Redirect — CTF Web Challenge</b></summary>
@@ -196,7 +197,7 @@ A hard-difficulty, spy-themed capture-the-flag challenge combining multi-stage p
 
 ---
 
-## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"/> Certifications
+## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"/> 📜 [VERIFIED CREDS] ~ Certifications
 
 <div align="center">
 
@@ -216,7 +217,7 @@ A hard-difficulty, spy-themed capture-the-flag challenge combining multi-stage p
 
 ---
 
-## <img src="https://media.giphy.com/media/artj92V8o75VPL7AeQ/giphy.gif" width="30"/> Coding & CTF Profiles
+## <img src="https://media.giphy.com/media/artj92V8o75VPL7AeQ/giphy.gif" width="30"/> 👾 [CTF LOGINS] ~ Coding & CTF Profiles
 
 <div align="center">
 
@@ -231,14 +232,14 @@ A hard-difficulty, spy-themed capture-the-flag challenge combining multi-stage p
 
 ---
 
-## <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="30"/> GitHub Analytics
+## <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="30"/> 📈 [SYSTEM STATUS] ~ GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ShubhamShinde148&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamShinde148&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ShubhamShinde148&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF66&icon_color=8B5CF6&text_color=C9D1D9" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamShinde148&hide_border=true&background=0D1117&ring=8B5CF6&fire=00FF66&currStreakLabel=00FF66" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamShinde148&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamShinde148&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF66&text_color=C9D1D9" width="49%"/>
 
 </div>
 
@@ -292,9 +293,10 @@ A hard-difficulty, spy-themed capture-the-flag challenge combining multi-stage p
 
 ---
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"/> Current Focus
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"/> 🎯 [CURRENT MISSION] ~ Current Focus
 
 ```yaml
+# shubham@root:~$ cat current_focus.yaml
 learning:
   - Advanced web exploitation techniques
   - German language (A1 → progressing)
@@ -318,7 +320,7 @@ open_to:
 
 ---
 
-## <img src="https://media.giphy.com/media/l0MYryZnP58extY9y/giphy.gif" width="30"/> Connect With Me
+## <img src="https://media.giphy.com/media/l0MYryZnP58extY9y/giphy.gif" width="30"/> 📞 [ESTABLISHING CONNECTION] ~ Connect With Me
 
 <div align="center">
 
@@ -345,6 +347,6 @@ open_to:
 <div align="center">
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D1117,1E1B4B,00FF66&height=120&section=footer" width="100%"/>
 
 </div>
