@@ -334,7 +334,7 @@ Below is a structured log of advanced CTF challenges solved across various platf
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=ShubhamShinde148&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF66&icon_color=8B5CF6&text_color=C9D1D9" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamShinde148&hide_border=true&background=0D1117&ring=8B5CF6&fire=00FF66&currStreakLabel=00FF66" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamShinde148&hide_border=true&background=0D1117&ring=8B5CF6&fire=00FF66&currStreakNum=ffffff&currStreakLabel=00FF66&sideNums=ffffff&sideLabels=A78BFA&dates=A78BFA" width="49%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamShinde148&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF66&text_color=C9D1D9" width="49%"/>
 
