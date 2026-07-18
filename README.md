@@ -70,7 +70,7 @@ I'm a cybersecurity student who lives at the intersection of **offensive securit
 
 Every recon starts the same way — look at everything, not just what's obvious.
 
-<!-- FLAG{shu42bham60_pr0f1l3_h4ck3d} -->
+HEXNOVA{shu42bham60_pr0f1l3_h4ck3d} 
 
 </details>
 
