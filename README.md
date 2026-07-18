@@ -65,6 +65,14 @@ I'm a cybersecurity student who lives at the intersection of **offensive securit
 <br/>
 
 ---
+<details>
+<summary>🔍 A note for the curious ones</summary>
+
+Every recon starts the same way — look at everything, not just what's obvious.
+
+<!-- FLAG{shu42bham60_pr0f1l3_h4ck3d} -->
+
+</details>
 
 ## <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30"/> 📡 [SCAN] ~ Tech Stack
 
