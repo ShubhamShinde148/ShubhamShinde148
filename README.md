@@ -86,15 +86,3 @@ Cyberpunk-themed CTF competition platform — self-designed, self-tested, self-h
 
 [![HexNova](https://img.shields.io/badge/ctf.hexnova.space-39FF14?style=for-the-badge&logoColor=black)](https://ctf.hexnova.space)
 [![Portfolio](https://img.shields.io/badge/portfolio-39FF14?style=for-the-badge&logoColor=black)](https://cybersec-47e07.web.app)
-[![GitHub](https://img.shields.io/badge/github-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShubhamShinde148)
-[![LinkedIn](https://img.shields.io/badge/linkedin-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-shinde148)
-
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1E1B4B&height=60&section=footer" width="100%"/>
-
-*security isn't a feature you add — it's a mindset you build.*
-
-</div>
