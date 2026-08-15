@@ -1,47 +1,93 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1B4B,100:0D1117&height=120&text=shubham%20shinde&fontSize=36&fontColor=39FF14&fontAlignY=55&desc=cybersecurity%20student%20%C2%B7%20ctf%20challenge%20architect&descAlignY=80&descSize=15&descColor=8B5CF6" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1B4B,100:0D1117&height=140&text=shubham%20shinde&fontSize=38&fontColor=39FF14&fontAlignY=50&desc=cybersecurity%20student%20%C2%B7%20ctf%20challenge%20architect%20%C2%B7%20builder%20of%20hexnova&descAlignY=75&descSize=14&descColor=8B5CF6" width="100%"/>
 
-**building [hexnova](https://hexnova.space)** — a cyberpunk-themed CTF competition platform
+[![HexNova](https://img.shields.io/badge/PLAY_ON-ctf.hexnova.space-39FF14?style=for-the-badge&logo=hackthebox&logoColor=black)](https://ctf.hexnova.space)
 
 </div>
 
 <br/>
 
-## <span style="color:#39FF14">changelog</span>
+## <img src="https://img.shields.io/badge/-about-1E1B4B?style=flat-square"/>
+
+I design, build, and secure **HexNova** — a cyberpunk-themed CTF competition platform at [ctf.hexnova.space](https://ctf.hexnova.space). I write the challenges, I break my own infrastructure before anyone else can, and I document every exploit I find.
+
+```yaml
+role      : Cybersecurity Student · CTF Challenge Architect
+base      : Nashik, Maharashtra, India
+platform  : ctf.hexnova.space
+philosophy: "study how systems break, so I can build ones that don't"
+```
+
+<br/>
+
+## <img src="https://img.shields.io/badge/-changelog-1E1B4B?style=flat-square"/>
 
 ### 🟢 v.current — active
-- building HexNova, a cyberpunk-themed CTF competition platform
-- designing challenges across web, crypto, rev, stego, forensics, OSINT
-- running security tests on my own infra before anyone else does
+- building out `ctf.hexnova.space` — challenge catalog, infra hardening, platform security
+- designing challenges across **web · crypto · rev · stego · forensics · OSINT**
+- running full VAPT engagements against my own platform before players ever touch it
 
 ### 🟣 v.earlier
-- shipped La Casa de Papel — Flask/Jinja2 SSTI chain to RCE
-- shipped Ghost Redirect — data hidden in HTTP 302 bodies, masked via `history.replaceState()`
-- shipped Operation Black Vault — multi-stage spy-themed CTF, hard difficulty
+- **La Casa de Papel** — Flask/Jinja2 SSTI chain to RCE, heist-themed
+- **Ghost Redirect** — data hidden in raw HTTP 302 bodies, masked via `history.replaceState()`
+- **Operation Black Vault** — multi-stage spy-themed CTF, hard difficulty
 
 ### ⚪ v.foundation
-- learned networking fundamentals, Linux internals, Kali workflows
-- based in Nashik, Maharashtra, India
+- networking fundamentals, Linux internals, Kali Linux workflows
+- Cisco Networking Fundamentals · NPTEL Cybersecurity
 
 <br/>
 
-## stack
+## <img src="https://img.shields.io/badge/-stack-1E1B4B?style=flat-square"/>
 
+**offensive**
 ![web exploitation](https://img.shields.io/badge/web%20exploitation-1E1B4B?style=for-the-badge&logoColor=white)
 ![reverse engineering](https://img.shields.io/badge/reverse%20engineering-1E1B4B?style=for-the-badge&logoColor=white)
-![networking](https://img.shields.io/badge/networking-1E1B4B?style=for-the-badge&logoColor=white)
-![linux](https://img.shields.io/badge/linux-1E1B4B?style=for-the-badge&logoColor=white)
-![sql](https://img.shields.io/badge/sql-1E1B4B?style=for-the-badge&logoColor=white)
+![sql](https://img.shields.io/badge/sql%20injection-1E1B4B?style=for-the-badge&logoColor=white)
+
+**infrastructure**
+![networking](https://img.shields.io/badge/networking-8B5CF6?style=for-the-badge&logoColor=white)
+![linux](https://img.shields.io/badge/linux-8B5CF6?style=for-the-badge&logoColor=white)
+![docker](https://img.shields.io/badge/docker-8B5CF6?style=for-the-badge&logoColor=white)
+
+**languages**
+![python](https://img.shields.io/badge/python-39FF14?style=for-the-badge&logoColor=black)
+![bash](https://img.shields.io/badge/bash-39FF14?style=for-the-badge&logoColor=black)
+![js](https://img.shields.io/badge/javascript-39FF14?style=for-the-badge&logoColor=black)
 
 <br/>
 
-## links
+## <img src="https://img.shields.io/badge/-hexnova-1E1B4B?style=flat-square"/>
 
-[![portfolio](https://img.shields.io/badge/portfolio-39FF14?style=for-the-badge&logoColor=black)](https://cybersec-47e07.web.app)
-[![hexnova](https://img.shields.io/badge/hexnova-39FF14?style=for-the-badge&logoColor=black)](https://hexnova.space)
-[![github](https://img.shields.io/badge/github-8B5CF6?style=for-the-badge&logoColor=white)](https://github.com/ShubhamShinde148)
-[![linkedin](https://img.shields.io/badge/linkedin-8B5CF6?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/shubham-shinde148)
+<table>
+<tr>
+<td width="60%">
+
+**ctf.hexnova.space**
+Cyberpunk-themed CTF competition platform — self-designed, self-tested, self-hosted challenges across every major category. Every challenge shipped goes through my own VAPT process first.
+
+</td>
+<td>
+
+```diff
++ status : LIVE
++ format : HEXNOVA{...}
++ theme  : cyberpunk / neon
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## <img src="https://img.shields.io/badge/-connect-1E1B4B?style=flat-square"/>
+
+[![HexNova](https://img.shields.io/badge/ctf.hexnova.space-39FF14?style=for-the-badge&logoColor=black)](https://ctf.hexnova.space)
+[![Portfolio](https://img.shields.io/badge/portfolio-39FF14?style=for-the-badge&logoColor=black)](https://cybersec-47e07.web.app)
+[![GitHub](https://img.shields.io/badge/github-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShubhamShinde148)
+[![LinkedIn](https://img.shields.io/badge/linkedin-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-shinde148)
 
 <br/>
 
