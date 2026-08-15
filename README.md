@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1B4B,100:0D1117&height=140&text=shubham%20shinde&fontSize=38&fontColor=39FF14&fontAlignY=50&desc=cybersecurity%20student%20%C2%B7%20ctf%20challenge%20architect%20%C2%B7%20builder%20of%20hexnova&descAlignY=75&descSize=14&descColor=8B5CF6" width="100%"/>
+<img src="./banner.svg" alt="shubham shinde — terminal banner" width="100%"/>
 
 [![HexNova](https://img.shields.io/badge/PLAY_ON-ctf.hexnova.space-39FF14?style=for-the-badge&logo=hackthebox&logoColor=black)](https://ctf.hexnova.space)
 
