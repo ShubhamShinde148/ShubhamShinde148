@@ -1,63 +1,46 @@
-<div align="center">
+# shubham shinde
 
-```
-██████╗ █████╗ ███████╗███████╗    ███████╗██╗██╗     ███████╗
-██╔════╝██╔══██╗██╔════╝██╔════╝    ██╔════╝██║██║     ██╔════╝
-██║     ███████║███████╗█████╗      █████╗  ██║██║     █████╗  
-██║     ██╔══██║╚════██║██╔══╝      ██╔══╝  ██║██║     ██╔══╝  
-╚██████╗██║  ██║███████║███████╗    ██║     ██║███████╗███████╗
- ╚═════╝╚═╝  ╚═╝╚══════╝╚══════╝    ╚═╝     ╚═╝╚══════╝╚══════╝
-                  #HN-2026-0148 :: STATUS = ACTIVE
-```
-
-`Cybersecurity Student` · `CTF Challenge Architect` · `Builder of HexNova`
-
-</div>
+cybersecurity student · ctf challenge architect · building [hexnova](https://hexnova.space)
 
 <br/>
 
-## whois shubham
+## changelog
 
-```console
-$ whois shubham
-[+] builds & operates HexNova — a cyberpunk-themed CTF platform
-[+] designs challenges across web / crypto / rev / stego / forensics / OSINT
-[+] runs security tests on his own infra before anyone else touches it
-[+] based in Nashik, Maharashtra, India
-```
+### v.current — active
+- building HexNova, a cyberpunk-themed CTF competition platform
+- designing challenges across web, crypto, rev, stego, forensics, OSINT
+- running security tests on my own infra before anyone else does
 
-<br/>
+### v.earlier
+- shipped La Casa de Papel — Flask/Jinja2 SSTI chain to RCE
+- shipped Ghost Redirect — data hidden in HTTP 302 bodies, masked via `history.replaceState()`
+- shipped Operation Black Vault — multi-stage spy-themed CTF, hard difficulty
 
-## skills
-
-```
-Web Exploitation     ████████░░  SSTI, IDOR, auth bypass
-CTF Design            █████████░  original challenges, Docker-packaged
-Rev Engineering       ██████░░░░  anti-debug, bytecode VMs
-Networking            ████████░░  TCP/IP, HTTP internals, packet analysis
-Linux                 ████████░░  Kali, shell scripting, hardening
-```
+### v.foundation
+- learned networking fundamentals, Linux internals, Kali workflows
+- based in Nashik, Maharashtra, India
 
 <br/>
 
-## projects
+## stack
 
-- **HexNova** — cyberpunk CTF platform, self-built & self-tested — [hexnova.space](https://hexnova.space)
-- **La Casa de Papel** — Flask/Jinja2 SSTI chain to RCE
-- **Ghost Redirect** — data hidden in HTTP 302 bodies, masked via `history.replaceState()`
-- **Operation Black Vault** — hard, multi-stage spy-themed CTF
+![web exploitation](https://img.shields.io/badge/web%20exploitation-1E1B4B?style=flat-square&logoColor=white)
+![reverse engineering](https://img.shields.io/badge/reverse%20engineering-1E1B4B?style=flat-square&logoColor=white)
+![networking](https://img.shields.io/badge/networking-1E1B4B?style=flat-square&logoColor=white)
+![linux](https://img.shields.io/badge/linux-1E1B4B?style=flat-square&logoColor=white)
+![sql](https://img.shields.io/badge/sql-1E1B4B?style=flat-square&logoColor=white)
 
 <br/>
 
-## connect
+## links
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=flat-square&logo=vercel&logoColor=00FF66)](https://cybersec-47e07.web.app)
-[![HexNova](https://img.shields.io/badge/HEXNOVA-000000?style=flat-square&logo=hackthebox&logoColor=8B5CF6)](https://hexnova.space)
-[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/ShubhamShinde148)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=6366F1)](https://www.linkedin.com/in/shubham-shinde148)
+[![portfolio](https://img.shields.io/badge/portfolio-39FF14?style=flat-square&logoColor=black)](https://cybersec-47e07.web.app)
+[![hexnova](https://img.shields.io/badge/hexnova-39FF14?style=flat-square&logoColor=black)](https://hexnova.space)
+[![github](https://img.shields.io/badge/github-39FF14?style=flat-square&logoColor=black)](https://github.com/ShubhamShinde148)
+[![linkedin](https://img.shields.io/badge/linkedin-39FF14?style=flat-square&logoColor=black)](https://www.linkedin.com/in/shubham-shinde148)
 
-<div align="center">
+<br/>
 
-*"Security isn't a feature you add — it's a mindset you build."*
+---
 
-</div>
+*security isn't a feature you add — it's a mindset you build.*
