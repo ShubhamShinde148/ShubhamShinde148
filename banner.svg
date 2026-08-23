@@ -1,65 +1,82 @@
-<svg width="900" height="160" viewBox="0 0 900 160" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img"
+     aria-label="shubham shinde — cybersecurity student and CTF challenge architect, ctf.hexnova.space">
+  <title>shubham shinde — HEXNOVA{shubham_shinde}</title>
+
   <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#1E1B4B"/>
-      <stop offset="100%" stop-color="#0D1117"/>
+    <linearGradient id="field" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%"   stop-color="#08071A"/>
+      <stop offset="55%"  stop-color="#12102E"/>
+      <stop offset="100%" stop-color="#1A1640"/>
     </linearGradient>
-    <linearGradient id="borderGlow" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#39FF14"/>
-      <stop offset="50%" stop-color="#8B5CF6"/>
-      <stop offset="100%" stop-color="#39FF14"/>
-    </linearGradient>
-    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="3" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
+
+    <radialGradient id="glow" cx="0.82" cy="0.12" r="0.62">
+      <stop offset="0%"   stop-color="#8B5CF6" stop-opacity="0.30"/>
+      <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="emerge" cx="0.03" cy="0.97" r="0.46">
+      <stop offset="0%"   stop-color="#39FF14" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#39FF14" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- hex lattice: the "hex" in HexNova, held at whisper opacity.
+         both hexes sit fully inside the 48x42 tile — SVG patterns clip
+         rather than wrap, so anything crossing the edge shows as a fragment -->
+    <pattern id="lattice" width="48" height="42" patternUnits="userSpaceOnUse">
+      <path d="M12,0.5 L1.88,6.25 L1.88,17.75 L12,23.5 L22.12,17.75 L22.12,6.25 Z"
+            fill="none" stroke="#8B5CF6" stroke-width="1"/>
+      <path d="M36,18.5 L25.88,24.25 L25.88,35.75 L36,41.5 L46.12,35.75 L46.12,24.25 Z"
+            fill="none" stroke="#39FF14" stroke-width="1"/>
+    </pattern>
+
+    <!-- only the pulse lives in CSS; every static style is a presentation
+         attribute, so a sanitizer that drops <style> costs nothing but the
+         animation. the pulse is on the status dot, not a text caret, so it
+         never depends on the viewer's monospace font metrics -->
+    <style>
+      @keyframes pulse { 0%, 100% { opacity: 1 } 50% { opacity: 0.25 } }
+      .live { animation: pulse 1.9s ease-in-out infinite }
+      @media (prefers-reduced-motion: reduce) { .live { animation: none } }
+    </style>
   </defs>
 
-  <!-- background -->
-  <rect x="0" y="0" width="900" height="160" rx="10" fill="url(#bg)"/>
+  <!-- field -->
+  <rect width="1200" height="300" rx="8" fill="url(#field)"/>
+  <rect width="1200" height="300" rx="8" fill="url(#lattice)" opacity="0.17"/>
+  <rect width="1200" height="300" rx="8" fill="url(#glow)"/>
+  <rect width="1200" height="300" rx="8" fill="url(#emerge)"/>
+  <rect x="0.5" y="0.5" width="1199" height="299" rx="8"
+        fill="none" stroke="#39FF14" stroke-opacity="0.17"/>
 
-  <!-- animated border -->
-  <rect x="2" y="2" width="896" height="156" rx="10" fill="none" stroke="url(#borderGlow)" stroke-width="2" opacity="0.8">
-    <animate attributeName="opacity" values="0.4;1;0.4" dur="2.5s" repeatCount="indefinite"/>
-  </rect>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace">
 
-  <!-- terminal dots -->
-  <circle cx="30" cy="30" r="6" fill="#FF5F56"/>
-  <circle cx="52" cy="30" r="6" fill="#FFBD2E"/>
-  <circle cx="74" cy="30" r="6" fill="#27C93F"/>
-  <text x="95" y="35" font-family="Fira Code, monospace" font-size="13" fill="#8B5CF6">shubham@hexnova:~</text>
+    <!-- eyebrow -->
+    <text x="56" y="62" font-size="12" letter-spacing="4.4" fill="#6D68A8">SHUBHAM SHINDE</text>
+    <text x="1144" y="62" font-size="12" letter-spacing="4.4" fill="#6D68A8"
+          text-anchor="end">NASHIK · MAHARASHTRA · IN</text>
+    <line x1="56" y1="82" x2="1144" y2="82" stroke="#8B5CF6" stroke-opacity="0.24"/>
 
-  <!-- prompt line 1: typed then stays -->
-  <text x="30" y="75" font-family="Fira Code, monospace" font-size="20" fill="#39FF14" filter="url(#glow)">
-    <tspan>$ whoami</tspan>
-    <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.05;0.15" dur="6s" repeatCount="indefinite"/>
-  </text>
-
-  <!-- typewriter reveal of the answer using clip-path width animation -->
-  <clipPath id="reveal">
-    <rect x="0" y="0" height="40" width="0">
-      <animate attributeName="width" values="0;0;620;620;620;0" keyTimes="0;0.15;0.55;0.85;0.95;1" dur="6s" repeatCount="indefinite"/>
-    </rect>
-  </clipPath>
-
-  <g clip-path="url(#reveal)">
-    <text x="30" y="110" font-family="Fira Code, monospace" font-size="24" font-weight="600" fill="#ffffff" filter="url(#glow)">
-      shubham shinde — CTF architect, hexnova
+    <!-- signature: identity written in his own flag format -->
+    <text x="56" y="152" font-size="46" font-weight="700" letter-spacing="-0.5">
+      <tspan fill="#8B5CF6">HEXNOVA{</tspan><tspan fill="#39FF14">shubham_shinde</tspan><tspan fill="#8B5CF6">}</tspan>
     </text>
+
+    <text x="56" y="190" font-size="15.5" letter-spacing="1.2"
+          fill="#A5A3C7">cybersecurity student · ctf challenge architect</text>
+
+    <!-- categories he authors across -->
+    <text x="56" y="240" font-size="13" letter-spacing="1.6" fill="#C9C7E8">web<tspan
+      fill="#8B5CF6"> / </tspan>crypto<tspan fill="#8B5CF6"> / </tspan>rev<tspan
+      fill="#8B5CF6"> / </tspan>stego<tspan fill="#8B5CF6"> / </tspan>forensics<tspan
+      fill="#8B5CF6"> / </tspan>osint</text>
+
+    <line x1="56" y1="260" x2="1144" y2="260" stroke="#8B5CF6" stroke-opacity="0.24"/>
+
+    <!-- status readout: the flag is submitted, and it lands -->
+    <circle class="live" cx="61" cy="279" r="4" fill="#39FF14"/>
+    <text x="76" y="283" font-size="12" letter-spacing="2.6" fill="#8F8CBA">CTF.HEXNOVA.SPACE</text>
+    <text x="1144" y="283" font-size="12" letter-spacing="2.6" fill="#39FF14"
+          text-anchor="end">FLAG ACCEPTED · +500</text>
+
   </g>
-
-  <!-- blinking cursor that trails the typewriter -->
-  <rect x="30" y="90" width="12" height="24" fill="#39FF14">
-    <animate attributeName="x" values="30;650;650;30" keyTimes="0;0.55;0.95;1" dur="6s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="1;0;1;0;1;0;1" dur="0.8s" repeatCount="indefinite"/>
-  </rect>
-
-  <!-- bottom status line -->
-  <text x="30" y="140" font-family="Fira Code, monospace" font-size="13" fill="#8B5CF6">
-    building ctf.hexnova.space
-    <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.6;0.75" dur="6s" repeatCount="indefinite"/>
-  </text>
 </svg>
