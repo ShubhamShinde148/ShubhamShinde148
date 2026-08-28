@@ -71,7 +71,8 @@ goes through my own VAPT process first.
 
 ```diff
 + status : LIVE
-+ format : HEXNOVA{...}
++ format : CHAKRA{........}
+CHAKRA{shu42bham60_pr0f1l3_h4ck3d}
 + theme  : cyberpunk / neon
 + scope  : web · crypto · rev · stego · forensics · osint
 ```
